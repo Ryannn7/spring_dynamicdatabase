@@ -1,0 +1,13 @@
+D:\01_MyProject\springboot_dynamicdatabase\03_springDataSource\src\main\java\com\tuling\dynamic\datasource\DynamicDataSource.java
+D:\01_MyProject\springboot_dynamicdatabase\03_springDataSource\src\main\java\com\tuling\dynamic\datasource\service\FrendReadService.java
+D:\01_MyProject\springboot_dynamicdatabase\03_springDataSource\src\main\java\com\tuling\dynamic\datasource\service\impl\FrendWriteServiceImpl.java
+D:\01_MyProject\springboot_dynamicdatabase\03_springDataSource\src\main\java\com\tuling\dynamic\datasource\aop\DynamicAnnotation.java
+D:\01_MyProject\springboot_dynamicdatabase\03_springDataSource\src\main\java\com\tuling\dynamic\datasource\DynamicDatasourceApplication.java
+D:\01_MyProject\springboot_dynamicdatabase\03_springDataSource\src\main\java\com\tuling\dynamic\datasource\config\DataSourceConfig.java
+D:\01_MyProject\springboot_dynamicdatabase\03_springDataSource\src\main\java\com\tuling\dynamic\datasource\controller\FrendController.java
+D:\01_MyProject\springboot_dynamicdatabase\03_springDataSource\src\main\java\com\tuling\dynamic\datasource\config\WR.java
+D:\01_MyProject\springboot_dynamicdatabase\03_springDataSource\src\main\java\com\tuling\dynamic\datasource\enums\DataSourceMark.java
+D:\01_MyProject\springboot_dynamicdatabase\03_springDataSource\src\main\java\com\tuling\dynamic\datasource\entity\Frend.java
+D:\01_MyProject\springboot_dynamicdatabase\03_springDataSource\src\main\java\com\tuling\dynamic\datasource\service\impl\FrendReadServiceImpl.java
+D:\01_MyProject\springboot_dynamicdatabase\03_springDataSource\src\main\java\com\tuling\dynamic\datasource\mapper\FrendMapper.java
+D:\01_MyProject\springboot_dynamicdatabase\03_springDataSource\src\main\java\com\tuling\dynamic\datasource\service\FrendWriteService.java

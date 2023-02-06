@@ -1,0 +1,13 @@
+com\tuling\dynamic\datasource\config\DataSourceConfig.class
+com\tuling\dynamic\datasource\enums\DataSourceMark.class
+com\tuling\dynamic\datasource\service\impl\FrendReadServiceImpl.class
+com\tuling\dynamic\datasource\DynamicDataSource.class
+com\tuling\dynamic\datasource\service\FrendReadService.class
+com\tuling\dynamic\datasource\entity\Frend.class
+com\tuling\dynamic\datasource\mapper\FrendMapper.class
+com\tuling\dynamic\datasource\service\FrendService.class
+com\tuling\dynamic\datasource\service\impl\FrendServiceImpl.class
+com\tuling\dynamic\datasource\aop\DynamicAnnotation.class
+com\tuling\dynamic\datasource\controller\FrendController.class
+com\tuling\dynamic\datasource\DynamicDatasourceApplication.class
+com\tuling\dynamic\datasource\config\WR.class

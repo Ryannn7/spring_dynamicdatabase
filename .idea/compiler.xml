@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="11_SpringAop" />
+        <module name="03_springDataSource" />
+        <module name="02_springDataSource" />
+        <module name="04_myDatabaseSource" />
+        <module name="06_Servlet" />
+        <module name="05_springDataSource" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="12_quart_demo" target="1.8" />
+      <module name="springboot_dynamicdatabase" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="01_myDatabaseSource" options="-parameters" />
+      <module name="02_springDataSource" options="-parameters" />
+      <module name="03_springDataSource" options="-parameters" />
+      <module name="04_myDatabaseSource" options="-parameters" />
+      <module name="05_springDataSource" options="-parameters" />
+      <module name="06_Servlet" options="-parameters" />
+      <module name="11_SpringAop" options="-parameters" />
+      <module name="12_quart_demo" options="" />
+    </option>
+  </component>
+</project>

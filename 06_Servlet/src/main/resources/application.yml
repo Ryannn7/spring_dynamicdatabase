@@ -1,0 +1,22 @@
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    datasource-w:
+      url: jdbc:mysql://127.0.0.1:3306/database1?serverTimezone=UTC&useUnicode=true&characterEncoding=UTF8&useSSL=false
+      username: root
+      password: root
+      initial-size: 1
+      min-idle: 1
+      max-active: 20
+      test-on-borrow: true
+      driver-class-name: com.mysql.cj.jdbc.Driver
+    datasource-r:
+      url: jdbc:mysql://127.0.0.1:3306/database2?serverTimezone=UTC&useUnicode=true&characterEncoding=UTF8&useSSL=false
+      username: root
+      password: root
+      initial-size: 1
+      min-idle: 1
+      max-active: 20
+      test-on-borrow: true
+      driver-class-name: com.mysql.cj.jdbc.Driver
+
